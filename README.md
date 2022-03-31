@@ -24,3 +24,4 @@ The Camera Doorbell Surveillance Solution helps to capture  images of the person
 - AWS Rekognition 
 - AWS Amazon Cognito
 
+# How would the website look
